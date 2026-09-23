@@ -1,0 +1,12 @@
+Method: built-in ImageGen. The selected generated images were copied unchanged into the project assets folder.
+
+Start image:
+Realistic medical educational 3D-style render in strict lateral view of an adult male lying supine on a gray examination table, head left and feet right. Shirtless upper torso, gray shorts, whole body and table visible, right arm straight at side with elbow extended and palm facing the body. Both hips and knees flexed comfortably with both feet flat on the table to support a flat lumbar position. Head, thorax, low back and pelvis supported. White background, neutral lighting, no labels or instrument, anatomically continuous body.
+
+Partway edit:
+Preserve the patient identity, table, framing, bent knees, feet, torso and background. Move only the near right arm into 90 degrees of shoulder flexion. Keep the elbow extended, arm continuous, and hand above the shoulder. Remove the original near arm from the side. Keep the far arm at the side and maintain head, thorax, low back and pelvis support without rib flare or lumbar extension. No duplicate limb, cutout, labels or instrument.
+
+Endpoint edit:
+Preserve the patient identity, table, framing, bent knees, feet, torso and background. Move only the near right arm into approximately 140–150 degrees of shoulder flexion, reaching diagonally overhead with the elbow extended and whole hand inside the canvas. Remove the original near arm from the side. Keep the far arm at the side and maintain head, thorax, low back and pelvis support without rib flare or lumbar extension. One natural continuous arm; no duplicate limb, cutout, labels or instrument.
+
+The returned illustrations were calibrated as start 0, partway 90, and endpoint 140 degrees. These are prototype illustration targets rather than patient-derived measurements.

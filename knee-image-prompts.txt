@@ -1,0 +1,9 @@
+Method: built-in ImageGen. Complete raster images; generated originals copied unchanged into assets.
+
+Start generation brief: Photorealistic medical educational 3D-style render, strict right lateral view of an adult male wearing a navy T-shirt and gray shorts, lying fully supine on a gray examination table. Head, back, pelvis, thighs and legs supported, both knees extended and heels on the table. Arms resting at sides, bare feet pointing upward. Entire person and table visible, white background. No labels or goniometer.
+
+Endpoint edit brief: Preserve the person, table, viewpoint, clothing and background of the start image. Show the near right leg flexed in a supported heel slide, foot on the table near the buttock, knee bent deeply. Head, back and pelvis stay on the table and far leg remains straight. One natural intact continuous leg, no cut-out or superimposed limb.
+
+Partway edit brief: Use the same start reference and camera. Show a less flexed intermediate heel-slide pose, with heel on the table and head, back and pelvis supported. Keep the whole patient anatomically continuous and far leg straight. No labels or instrument.
+
+Calibration follows the returned illustrations: start 0, partway 103, endpoint 120 degrees. These are prototype illustration targets rather than patient-derived measurements.

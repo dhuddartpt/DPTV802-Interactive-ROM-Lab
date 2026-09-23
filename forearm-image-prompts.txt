@@ -1,0 +1,12 @@
+Method: built-in ImageGen. Selected generated originals were copied unchanged into the project assets folder.
+
+Neutral generation:
+Realistic medical educational 3D-style render of an adult male seated upright on a gray stool in a right-front three-quarter view. Right shoulder adducted, upper arm vertical beside the trunk, elbow flexed exactly 90 degrees, and forearm in neutral pronation/supination with thumb straight up. Forearm and hand fully visible, wrist straight without flexion, extension, or deviation. Navy sleeveless shirt, gray shorts, white background, whole seated person visible, no labels or instrument, continuous natural anatomy.
+
+Pronation edits:
+Preserve patient, camera, posture, shoulder, upper arm, elbow, forearm location, and straight wrist. Rotate only the right forearm and hand halfway and then fully into pronation. At the endpoint the palm faces downward and dorsal hand faces upward. Prevent shoulder rotation and wrist substitution. No duplicate or cut limb, labels, or instrument.
+
+Supination edits:
+Preserve patient, camera, posture, shoulder, upper arm, elbow, forearm location, and straight wrist. Rotate only the right forearm and hand halfway and then fully into supination. At the endpoint the palm faces upward and dorsal hand faces downward. Prevent shoulder rotation and wrist substitution. No duplicate or cut limb, labels, or instrument.
+
+The returned illustrations were calibrated as neutral 0 degrees, partway 40 degrees, and endpoint 80 degrees for each direction. These are prototype illustration targets rather than patient-derived measurements.
