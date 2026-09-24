@@ -1,7 +1,7 @@
 'use strict';
 function forearmActivity({id,label,motion,direction,partwayImage,endImage,partwayMoving,endMoving,movingSurface}){
  return {
-  id,type:'scored',label,joint:'Forearm',motion,side:'Right',region:'forearm',proximal:'humerus',distal:'distal forearm',typicalROM:80,flexionDirection:direction,readingMode:'overlap-zero',hidePatientUntilPosition:true,
+  id,type:'scored',label,joint:'Forearm',motion,side:'Right',region:'forearm',proximal:'humerus',distal:'distal forearm',typicalROM:80,flexionDirection:direction,readingMode:'overlap-zero',hidePatientUntilPosition:false,referenceQuizOnly:true,assessedSkills:['axisKnowledge','stationaryArmKnowledge','movingArmKnowledge'],
   positionLabel:'Seated · shoulder adducted · elbow 90° · forearm neutral',scenario:`Measure right forearm AROM ${motion.toLowerCase()}. Identify the standard patient position before viewing the patient.`,
   axisName:'lateral and proximal to the ulnar styloid',proximalReference:'a line parallel to the anterior midline of the humerus',distalReference:`the ${movingSurface} aspect of the distal forearm just proximal to the styloids`,
   description:`Whole-patient medical render: the person is seated upright with the right arm at the side, elbow flexed 90 degrees, forearm beginning in thumb-up neutral, and wrist straight. The forearm rotates into ${motion.toLowerCase()} while the shoulder and wrist remain controlled.`,

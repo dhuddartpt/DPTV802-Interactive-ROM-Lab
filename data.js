@@ -14,5 +14,5 @@ const ROM_ACTIVITIES = [{
  ],
  skills:['patientPosition','axisKnowledge','stationaryArmKnowledge','movingArmKnowledge','fulcrumPlacement','stationaryArmAlignment','movingArmAlignment','zeroRecognition','visualEstimate','scaleReading','documentation']
 }];
-const ROM_ROADMAP=['Knee Flexion','Shoulder Flexion','Forearm Pronation / Supination','Shoulder Internal / External Rotation','Hip Internal / External Rotation','Cervical Dual Inclinometer'];
+const ROM_ROADMAP=['Knee Flexion','Shoulder Flexion','Forearm Pronation / Supination','Shoulder Internal / External Rotation','Hip Internal / External Rotation','Ankle Dorsiflexion / Plantarflexion'];
 
